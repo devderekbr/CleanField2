@@ -1,0 +1,22 @@
+# Ambientes virtuais
+.venv/
+.venv-1/
+venv/
+
+# Build PyInstaller
+build/
+dist/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Arquivos do PyInstaller
+*.spec
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
